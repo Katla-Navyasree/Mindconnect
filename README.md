@@ -1,1 +1,2 @@
-# Mindconnect
+# Mindconnect Abstract
+MindConnect is a peer-to-peer therapy platform designed to provide accessible and professional mental health support through psychology scholars for students and individuals in need. The platform bridges the gap between those seeking psychological assistance and psychology scholars who require practical experience. Offering a cost-effective, high-quality service,  mindConnect allows users to seamlessly book therapy sessions with therapists based on their specific needs, therapy type, and availability. The platform supports various session formats  such as video calls, voice calls, and text messages, ensuring accessibility for all users. 
